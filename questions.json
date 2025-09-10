@@ -1,0 +1,53 @@
+
+[
+  {
+    "questionText": "Qual destes não é um pilar da Programação Orientada a Objetos?",
+    "options": [
+      "Herança",
+      "Polimorfismo",
+      "Abstração",
+      "Sequenciamento"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Qual palavra-chave é usada em Java para criar uma subclasse?",
+    "options": [
+      "extends",
+      "implements",
+      "inherits",
+      "super"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Qual estrutura de dados opera no princípio 'Primeiro a Entrar, Primeiro a Sair' (FIFO)?",
+    "options": [
+      "Pilha (Stack)",
+      "Fila (Queue)",
+      "Array",
+      "Lista Ligada (LinkedList)"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Em Java, qual a principal diferença entre uma Interface e uma Classe Abstrata?",
+    "options": [
+      "Interfaces não podem ter métodos, classes abstratas sim.",
+      "Uma classe pode implementar múltiplas interfaces, mas só pode herdar de uma classe abstrata.",
+      "Classes abstratas não podem ter construtores, interfaces sim.",
+      "Não há diferença."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "O que o comando 'git clone' faz?",
+    "options": [
+      "Cria um novo branch.",
+      "Envia alterações para o repositório remoto.",
+      "Cria uma cópia local de um repositório remoto.",
+      "Lista todos os commits."
+    ],
+    "correctAnswerIndex": 2
+  }
+]
